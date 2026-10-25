@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ritik&fontSize=72&fontAlignY=36&animation=fadeIn&desc=DevOps%20%7C%20Cloud%20%7C%20Kubernetes%20%7C%20Automation&descSize=20&descAlignY=58" alt="Ritik - DevOps Engineer banner" width="100%" />
 
-<img src="https://github.com/Ritik12062002.png?size=200" width="130" alt="Ritik" />
 
 <a href="https://github.com/Ritik12062002">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B+I'm+Ritik+%E2%80%94+DevOps+Engineer;Cloud+Infrastructure+%7C+Kubernetes+%7C+Terraform;CI%2FCD+Automation+%7C+Observability+%7C+Reliability;Building+and+automating+things+that+just+work" alt="Typing animation" />
